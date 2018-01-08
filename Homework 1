@@ -1,0 +1,21 @@
+<!DOCTYPE HTML> 
+<html> 
+<body> 
+
+<form
+action="/action_page.php">
+   First Nane:<br> 
+   <input type-"text"
+name="First Name" 
+Value="Valkyrie" 
+  <br>
+  Last name="text" 
+ name="text" value="Sprouse"
+     <br> <br> 
+ 
+ Input type:"submit> 
+ value="Submit" 
+ </form> 
+ 
+ </form> 
+ </html>
